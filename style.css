@@ -1,0 +1,99 @@
+body{
+    padding: 0;
+    margin: 0;
+
+    background: #DCDCDC;/**irei trocar para um imagen de hamburguer **/
+}
+
+
+
+/** menu**/
+.menu ul{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(110, 126, 141);
+    list-style: none;
+}
+
+.menu ul{
+    display: flex;
+}
+
+.menu ul li a{
+    padding: 2px 10px;
+    display: inline-block;
+
+
+    background-color: slategray;
+    color: #333;
+    text-decoration: none;
+}
+
+.menu ul li a:hover{
+    color:white;
+    transition: 0.5s;
+}
+
+
+/** home **/
+.homer {
+    margin: 1.5rem;
+    padding: 0.3rem;
+    margin-left: 25%;
+
+
+    display: flex;
+    justify-content: space-between;
+    background: blue;/**irei trocar para um imagen de hamburguer **/
+
+    width: 50%;
+    height: 350px;
+
+    border-radius: 5px ;
+    
+}
+
+.homer h3{
+    margin-top: -1.2rem;
+    margin-left: 45%;
+}
+
+
+
+
+/** receitas **/
+#receitas div{
+    margin: 0.5rem;
+    padding: 1rem;
+    margin-left: 3%;
+
+    display: flex;
+
+    width: 90%;
+
+
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+
+    border-radius: 5px ;
+}
+
+
+
+/** footer **/
+footer{ 
+    display: flex;
+
+    background-color: rgb(110, 126, 141);
+
+}
+footer a{
+    padding: 5px;
+    position: absolute 5px;
+}
+
+footer a:hover{
+    color:white;
+    transition: 0.5s;
+}
