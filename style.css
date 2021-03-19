@@ -2,7 +2,7 @@ body{
     padding: 0;
     margin: 0;
 
-    background:url(/hamburguer_pag/hamburguer_pag/img/hamburguer_fundo.jpg);/**irei trocar para um imagen de hamburguer **/
+    background-image:url(/hamburguer_pag/hamburguer_pag/img/hamburguer_fundo.jpg);/**irei trocar para um imagen de hamburguer **/
     background-size: 100px 50px;
     background-size: 500px;
 
