@@ -9,10 +9,12 @@ body{
 
 /** menu**/
 .menu ul{
-    padding: 0px;
-    margin: 0px;
-    background-color: rgb(110, 126, 141);
     list-style: none;
+    margin-top: -25px;
+}
+
+.menu{
+    position: fixed;
 }
 
 .menu ul{
@@ -22,11 +24,13 @@ body{
 .menu ul li a{
     padding: 2px 10px;
     display: inline-block;
-
+    margin: 5px;
 
     background-color: slategray;
     color: #333;
     text-decoration: none;
+
+    border-radius: 5px;
 }
 
 .menu ul li a:hover{
@@ -49,7 +53,7 @@ body{
     width: 50%;
     height: 350px;
 
-    border-radius: 5px ;
+    border-radius: 50px ;
     
 }
 
@@ -78,6 +82,25 @@ body{
 
     border-radius: 5px ;
 }
+
+#receitas h3{
+    margin-left:47%;
+    padding-top: 45px;
+}
+
+
+section {
+    background-color: chartreuse;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+}
+
+section h4{
+    margin-top: -22px;
+    
+}
+
 
 
 
