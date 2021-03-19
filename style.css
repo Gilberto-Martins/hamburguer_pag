@@ -131,7 +131,7 @@ footer{
     display: flex;
 
     background-color: rgb(110, 126, 141);
-
+    opacity: 0.9;
 }
 footer a{
     padding: 5px;
