@@ -3,8 +3,9 @@ body{
     margin: 0;
 
     background-image:url(/hamburguer_pag/hamburguer_pag/img/hamburguer_fundo.jpg);/**irei trocar para um imagen de hamburguer **/
-    background-size: 100px 50px;
-    background-size: 500px;
+    background-size: 100%;
+    background-repeat: no-repeat; /** o -repeat com o valor no-repeat vai evitar que a imagen de backgrund **/
+    background-position: 100%;
 
     color:white;
 }
