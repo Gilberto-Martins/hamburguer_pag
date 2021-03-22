@@ -1,3 +1,2 @@
 # hamburguer_pag
-neste momento tanto o style e o arquivo de img não estão sendo reconhecido pelo github-pag
-e não estou consequindo resolver ate este momento.
+o style foi resolvido porem o problema da da imagem não, o github-pag não encontra o arquivo de imagem na pasta img, o console retorna : "Failed to load resource: the server responded with a status of 404 ()".
