@@ -1,2 +1,2 @@
 # hamburguer_pag
-o style foi resolvido porem o problema da da imagem não, o github-pag não encontra o arquivo de imagem na pasta img, o console retorna : "Failed to load resource: the server responded with a status of 404 ()".
+Link da pag: https://gilberto-martins.github.io/hamburguer_pag/#receitas
